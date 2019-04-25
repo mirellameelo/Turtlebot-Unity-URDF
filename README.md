@@ -14,7 +14,7 @@
 
 * Unity will restart
 
-* Create a URDF file inside "Assets" and copy all the files that are inside this project "Turtlebot-Unity-URDF"
+* Create a URDF folder inside "Assets" and copy into it all the files in this repository (except for the images folder)
 
 ![alt text](https://github.com/mirellameelo/Turtlebot-Unity-URDF/blob/master/imagens/4_unity.png)
 
