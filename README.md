@@ -22,7 +22,7 @@
 
 ## Result
 After those steps, you should have:
-![alt text](https://raw.githubusercontent.com/mirellameelo/Turtlebot-Unity-URDF/edit/master/images/6_unity.png)
+![.](https://github.com/mirellameelo/Turtlebot-Unity-URDF/blob/master/imagens/6_unity.png)
 
 
 #### Observation:
