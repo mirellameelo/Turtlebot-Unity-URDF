@@ -11,11 +11,13 @@
 * In Unity menu "*Edit*" -> "*Project Settings*" -> "*Player*". 
 
 * In "*Inspector*" tab select "*Other settings*" and change the "*Scripting Runtime Version*" to ".NET 4.x Equivalent"
-![alt text](https://github.com/mirellameelo/Turtlebot-Unity-URDF/blob/master/imagens/3_unity.png)
+
+![alt text](https://github.com/mirellameelo/Turtlebot-Unity-URDF/blob/master/imagens/2_unity.png)
 
 * Unity will restart
 
 * Create a URDF file inside "Assets" and copy all the files that are inside this project "Turtlebot-Unity-URDF"
+
 ![alt text](https://github.com/mirellameelo/Turtlebot-Unity-URDF/blob/master/imagens/4_unity.png)
 
 * In Unity menu "*GameObject*" -> "*3D Object*" -> "*URDF Model (Import)*" and choose **turtlebotT2i.urdf** that are inside URDF folder created before
