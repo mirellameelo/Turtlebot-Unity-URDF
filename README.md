@@ -22,6 +22,7 @@
 
 ## Result
 After those steps, you should have:
+![GitHub Logo](/images/6_unity.png)
 
 
 #### Observation:
