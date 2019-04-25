@@ -22,6 +22,8 @@
 
 * In Unity menu "*GameObject*" -> "*3D Object*" -> "*URDF Model (Import)*" and choose **turtlebotT2i.urdf** that are inside URDF folder created before
 
+![alt text](https://github.com/mirellameelo/Turtlebot-Unity-URDF/blob/master/imagens/5_unity.png)
+
 * Ignore Missing Asset and Continue URDF Import 
 
 ## Result
