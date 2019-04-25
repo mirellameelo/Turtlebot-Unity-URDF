@@ -1,7 +1,5 @@
 # Turtlebot Robot for Unity - URDF file
 
-* Copy the project "Turtlebot-Unity-URDF"
-
 ## Importing to Unity
 
 * Create an empty project in Unity
