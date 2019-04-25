@@ -24,7 +24,7 @@
 
 ![alt text](https://github.com/mirellameelo/Turtlebot-Unity-URDF/blob/master/imagens/5_unity.png)
 
-* Ignore Missing Asset and Continue URDF Import 
+* **Ignore Missing Asset and Continue URDF Import** 
 
 ## Result
 After those steps, you should have:
@@ -32,7 +32,7 @@ After those steps, you should have:
 ![alt text](https://github.com/mirellameelo/Turtlebot-Unity-URDF/blob/master/imagens/6_unity.png)
 
 
-#### Observation:
+## Observation:
 When I tried to add anything else in the scene, the robot started to be unstable. 
 I'm not sure, but I think it is because of some configuration in Unity Physics Engine. 
 This instability also happened with the Shadow Hand [(tutorial here)](https://github.com/siemens/ros-sharp/wiki/User_Inst_ShadowHand), and 
